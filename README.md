@@ -21,7 +21,7 @@ A home infrastructure and cybersecurity lab built around Proxmox VE.
 ## Current Status
 
 Foundation stage complete.
-
+ 
 Current work includes:
 - Proxmox
 - DNS01 / AdGuard
