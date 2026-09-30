@@ -46,7 +46,9 @@ Current work includes:
 3. [Storage Design](docs/03-storage-design.md)
 4. [Temporary Networking](docs/04-temporary-networking.md)
 5. [DNS01 and AdGuard](docs/05-dns01-adguard.md)
-6. [Tailscale Remote Access](docs/06-tailscale-remote-access.md)
-7. [Troubleshooting](docs/07-troubleshooting.md)
-8. [Reliability and Health Checks](docs/08-reliability-and-health-checks.md)
-9. [Future Roadmap](docs/09-future-roadmap.md)
+
+ [← Back to main project](../README.md)
+7. [Tailscale Remote Access](docs/06-tailscale-remote-access.md)
+8. [Troubleshooting](docs/07-troubleshooting.md)
+9. [Reliability and Health Checks](docs/08-reliability-and-health-checks.md)
+10. [Future Roadmap](docs/09-future-roadmap.md)
